@@ -1,21 +1,21 @@
 # VOD
 A simple Media App VOD (Video On-Demand) application.
 
-##Layout:
+## Layout:
 
-###Header
+### Header
 Header has 2 parts Home and History
 
-####Home part is to fetch data from MOCK API.
-####History icon is abut videos which user watched recently.
+#### Home part is to fetch data from MOCK API.
+#### History icon is abut videos which user watched recently.
 
-###Content Section:
+### Content Section:
 All data is shown in horientally with scroll bar and it becomes in 2 vertical line lsiting in responsive mod.
 
 It also have refresh button to fetch data from API.
 Also is uses "Font Awesome" to make more user firendly.
 
-##Platform:
+## Platform:
 Can be run on any browser on WIndows,Linux, MacOS.
 
 
@@ -31,16 +31,16 @@ User can see what was watched previously and these vides are sorted according to
 User can open videos using mouse and also by pressing enter keys on it.
 
 
-##Remaining Section:
+## Remaining Section:
 Local saving of images.
 Making a build using Gulp/Grunt.
 Unit Tests.
 
 
-##Run:
+## How to Run:
 Open index,html file in any browser.
 
-###Pre Requirements:
+### Pre Requirements:
 Browser (Chrome Preffered)
 Good Internet connection
 
