@@ -1,0 +1,29 @@
+{
+  "name": "vod",
+  "version": "1.0.0",
+  "description": "A small Media App VOD(Video On Demand) application.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakachohan/vod.git"
+  },
+  "keywords": [
+    "videos",
+    "scrollbar",
+    "history",
+    "watched"
+  ],
+  "author": "ZakaChohan",
+  "license": "Free",
+  "bugs": {
+    "url": "https://github.com/zakachohan/vod/issues"
+  },
+  "homepage": "https://github.com/zakachohan/vod/blob/master/index.html",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}

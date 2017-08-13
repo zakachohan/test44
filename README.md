@@ -31,9 +31,34 @@ User can see what was watched previously and these vides are sorted according to
 User can open videos using mouse and also by pressing enter keys on it.
 
 
+## FOR GULP BUILD
+
+1) Install NodeNode.js (Node) 
+
+2) Now install Gulp
+npm install gulp -g
+
+3) Run the npm init
+npm init
+Complete all information required for Package.json file
+
+4) Install Gulp into the project 
+npm install gulp --save-dev
+
+5) Run gulp file for test
+gulp
+
+6) Install Browser Sync for spinning up a web server 
+npm install browser-sync --save-dev
+
+7) Run and watch
+gulp watch
+
+It will automatically open application in your browser
+Also you can see URL in CLI against ACCESS URL section
+
 ## Remaining Section:
 Local saving of images.
-Making a build using Gulp/Grunt.
 Unit Tests.
 
 
@@ -43,4 +68,3 @@ Open index,html file in any browser.
 ### Pre Requirements:
 Browser (Chrome Preffered)
 Good Internet connection
-
